@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Latin 101, F'20: course schedule"
+title: "Change through time, S'21: course schedule"
 ---
 
 ## Section 1: classification and modelling
