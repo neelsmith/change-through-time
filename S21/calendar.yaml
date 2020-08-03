@@ -1,0 +1,16 @@
+# Configure a course calendar
+# Used for title of web page
+pageTitle : "Latin 101, F'20: course schedule"
+# YYYY-MM-DD
+firstDay: "2021-02-02"
+
+# Pattern of class meetings: "mwf", "tt" or "wf"
+schedule : "tt"
+
+# Number of weeks the calendar should run for
+totalWeeks : 13
+
+fixedDates:
+  - 2020-03-03 == Spring break
+  - 2020-03-05 == Spring break
+  - 2021-05-05 == Exams begin

@@ -1,0 +1,7 @@
+
+## Section 1: modelling
+
+Course intro
+Data structures#Lab: modelling texts
+
+## Section 2: comparing
