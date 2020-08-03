@@ -2,7 +2,7 @@
 # Used for title of web page
 pageTitle : "Latin 101, F'20: course schedule"
 # YYYY-MM-DD
-firstDay: "2021-02-02"
+firstDay: "2021-02-09"
 
 # Pattern of class meetings: "mwf", "tt" or "wf"
 schedule : "tt"

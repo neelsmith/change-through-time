@@ -15,6 +15,10 @@ Course grades will be determined by specification grading.  Individual assignmen
 Course grades will be determined by your satisfactory completion of the following course requirements:
 
 
+- group work in labs
+- presentations. At the culmination of each of the three sections of the course, you will present your work to a wider public.
+
+
 
 
 # Course grades
