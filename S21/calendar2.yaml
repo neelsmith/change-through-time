@@ -2,13 +2,13 @@
 # Used for title of web page
 pageTitle : "Change through time, S'21: course schedule"
 # YYYY-MM-DD
-firstDay: "2021-02-09"
+firstDay: "2021-02-23"
 
 # Pattern of class meetings: "mwf", "tt" or "wf"
 schedule : "tt"
 
 # Number of weeks the calendar should run for
-totalWeeks : 13
+totalWeeks : 2
 
 fixedDates:
   - 2020-03-03 == Spring break

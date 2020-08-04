@@ -8,7 +8,7 @@ firstDay: "2021-02-09"
 schedule : "tt"
 
 # Number of weeks the calendar should run for
-totalWeeks : 13
+totalWeeks : 3
 
 fixedDates:
   - 2020-03-03 == Spring break
