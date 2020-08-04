@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Change through time, S'21: course schedule"
+title: "Course schedule"
+has_children: true
 ---
 
 - Section 1: [classification and modelling](./part1/)
