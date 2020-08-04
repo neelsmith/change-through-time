@@ -2,6 +2,7 @@
 layout: page
 title: Schedule for section 1
 parent: Course schedule
+nav_order: 2
 ---
 
 
