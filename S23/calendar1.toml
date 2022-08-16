@@ -30,14 +30,18 @@ fixedDates = [
 
   ["2023-02-08", "**💡 Lab idea**: Lab 1. Lincoln and Everett at Gettysburg (literary style)"],
   ["2023-02-15", "**💡 Lab idea**: Lab 2. An n-gram viewer to compare texts"],
+
   ["2023-02-22", "**💡 Lab idea**: revise (and optionally extend) work on labs 1 and 2 for submission"],
 
   ["2023-03-01", "**💡 Lab idea**: Lab 3. topic modeling functions of rooms at Pompeii"],
 
+
+
+    ["2023-03-22", "**💡 Lab idea**: Lab 4. A parsimonious tree of the Gettysburg Address"],
+
     ["2023-03-16", "⚠️ Last day to submit revisions to labs 1-2"],
 
-    ["2023-03-22", "**💡 Lab idea**: Lab 4. A parsimonious tree of the Gettysburg Address"]
-
+      ["2023-04-13", "⚠️ Last day to submit revisions to labs 3-4"]
 ]
 
 

@@ -31,8 +31,8 @@ has_children: true
 | *Mar 21*, *Mar 23* | Parsimonious trees | Rereading the Gettysburg Address | **Wed**: ***💡 Lab idea**: Lab 4. A parsimonious tree of the Gettysburg Address* |
 | *Mar 28*, *Mar 30* | Network models | Topic modelling translations of the Bible |  |
 | *Apr 4*, *Apr 6* | Optional workshop: revise and extend labs 3-4 | *no class: Easter break* | **Wed**: *Last class before Easter break. NO LAB MEETING this week.* |
-| *Apr 11*, *Apr 13* | class | class | **Tue**: *Classes resume.* |
+| *Apr 11*, *Apr 13* | class | class | **Tue**: *Classes resume.* **Thu**: *⚠️ Last day to submit revisions to labs 3-4* |
 | *Apr 18*, *Apr 20* | Oral presentations of projects | class |  |
 | *Apr 25*, *Apr 27* | Oral presentations of projects | class | **Wed**: *Academic Conference.* |
-| *May 2*, *May 4* | Concluding discussion | Optional workshop: final revisions to all assignments |  |
+| *May 2*, *May 4* | Concluding discussion | Optional workshop: prepare final portfolio of assignments |  |
 | *May 9*, *May 11* | *Study period* | *Exams* | **Mon**: *Last day of classes.* **Tue**: *Study period begins.* **Thu**: *Final examinations begin.* **Wed**: *Final revisions of all assignments due.* |
