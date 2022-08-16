@@ -1,118 +1,69 @@
-## Module 1: the Greek verb
+## Part 1: modeling entities
 
 
-
-*no classes*
 [Introduction to course](../classes/intro/)
-
-✏️ [Accent](../classes/accent/)#**Written assignment for class due on Thurs. at 5:00**.
-
-
-✏️ [The aorist indicative](../classes/aorist/)
-
-🗣️ Mastering verb forms: active, middle and passive voices of the aorist
-
-
-✏️ [The imperfect indicative](../classes/imperfect/)
+What is a text? (+ trouble shoot basic tech. setup: julia, github account)
 
 
 
+Models and features:  Beethoven (and maybe beetles?)
+Defining features of literary style
+
+Sequences of features: (nucleotides and verbal ngrams?)
+n-grams
 
 
-✏️ Contract verbs
+## Part 2: Classification
 
 
-✏️ The second aorist
+Instances, classes, and scholarly citation: (defining species? when are two versions of a text two different texts?)
+Canonical citation of text and textual comparison using edit distance
 
-Review of verb forms
-
-Workshop: reading assignment 1
-
-Subjects, verbs, objects: word order and translation
-
-Workshop composition 1
-
-
-
-
-
-## Module 2: nouns and adjectives
-
-✏️ substantives and the article
-
-✏️ the genitive case
-
-✏️ [Direct and indirect objects](../classes/dir-indir-objects/)
+Counting features: (Zipf's Law)
+Zipf's Law: letters, words, n-grams
 
 
 
-✏️ adjectives 
-attributive and predicate expressions
-analyzing clauses
+Comparing features (categorical, ranked, numeric types) and multiclass models.  (topic modeling and...?)
+Topic modeling
 
 
-*fall break*
-*fall break*
-*fall break*
-
-
-Reading Workshop
-✏️ pronouns
-✏️ prepositions
-
-
-Composition Workshop
-Reviewing substantive forms
-Ancient views on grammatical gender
-
-
-## Module 3: Participles
-
-participles
-
-✏️ present participle
-
-attributive and circumstantial participles
-
-
-
-✏️ aorist participles
-
-Mastering participle forms
-
-reading
+*no class: spring break*
+*no class: spring break*
 
 
 
 
-## Module 4: Subordination
+## Part 3: Taxonomy and evolution
 
 
-Subordination
+
+Tree models: Darwin and Lachmann
+Text differences: edit distance
 
 
-✏️ the optative mood
-
-✏️ purpose clauses with past-tense verbs
-
-Mastering optative forms
+Parsimonious trees
+Rereading the Gettysburg Address
 
 
-*Thanksgiving break*
-*Thanksgiving break*
+Network models
+Topic modelling translations of the Bible
 
+
+Optional workshop: revise and extend labs 3-4
+*no class: Easter break*
 
 class
 class
-🗣️ declamation
 
-
-class
-class
+Oral presentations of projects
 class
 
+Oral presentations of projects
+class
+
+Concluding discussion
+Optional workshop: prepare final portfolio of assignments
 
 *Study period*
-
-*Exam period*
-*Exam period*
+*Exams*
