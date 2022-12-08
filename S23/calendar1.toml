@@ -1,0 +1,49 @@
+# Configure a course calendar
+# Used for title of web page
+courseTitle = "Change through time, section X, S23"
+# YYYY-MM-DD
+firstDay = "2023-01-24"
+lastDay = "2023-05-015"
+
+# Pattern of class meetings: "mwf", "tt" or "wf"
+schedule = "tth"
+
+totalWeeks = 15
+
+fixedDates = [
+  
+  ["2023-01-24","No lab this week"],
+  ["2023-03-03",  "Last class before spring break."],
+  ["2023-03-13",  "Classes resume."],
+  ["2023-04-05",  "Last class before Easter break. NO LAB MEETING this week."],
+  ["2023-04-11",  "Classes resume."],
+  ["2023-04-26",  "Academic Conference."],
+
+  ["2023-05-08",  "Last day of classes."],
+  ["2023-05-09",  "Study period begins."],
+  ["2023-05-11",  "Final examinations begin."],
+
+
+  ["2023-05-10",  "Final revisions of all assignments due."],
+
+  ["2023-02-01", "**💡 Lab idea**: Lab 0. Nouns and verbs of the Julia language"],
+
+  ["2023-02-08", "**💡 Lab idea**: Lab 1. Lincoln and Everett at Gettysburg (literary style)"],
+  ["2023-02-15", "**💡 Lab idea**: Lab 2. An n-gram viewer to compare texts"],
+
+  ["2023-02-22", "**💡 Lab idea**: revise (and optionally extend) work on labs 1 and 2 for submission"],
+
+  ["2023-03-01", "**💡 Lab idea**: Lab 3. topic modeling functions of rooms at Pompeii"],
+
+
+
+    ["2023-03-22", "**💡 Lab idea**: Lab 4. A parsimonious tree of the Gettysburg Address"],
+
+    ["2023-03-16", "⚠️ Last day to submit revisions to labs 1-2"],
+
+      ["2023-04-13", "⚠️ Last day to submit revisions to labs 3-4"]
+]
+
+
+
+

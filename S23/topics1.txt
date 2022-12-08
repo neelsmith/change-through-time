@@ -1,0 +1,69 @@
+## Part 1: modeling entities
+
+
+[Introduction to course](../classes/intro/)
+What is a text? (+ trouble shoot basic tech. setup: julia, github account)
+
+
+
+Models and features:  Beethoven (and maybe beetles?)
+Defining features of literary style
+
+Sequences of features: (nucleotides and verbal ngrams?)
+n-grams
+
+
+## Part 2: Classification
+
+
+Instances, classes, and scholarly citation: (defining species? when are two versions of a text two different texts?)
+Canonical citation of text and textual comparison using edit distance
+
+Counting features: (Zipf's Law)
+Zipf's Law: letters, words, n-grams
+
+
+
+Comparing features (categorical, ranked, numeric types) and multiclass models.  (topic modeling and...?)
+Topic modeling
+
+
+*no class: spring break*
+*no class: spring break*
+
+
+
+
+## Part 3: Taxonomy and evolution
+
+
+
+Tree models: Darwin and Lachmann
+Text differences: edit distance
+
+
+Parsimonious trees
+Rereading the Gettysburg Address
+
+
+Network models
+Topic modelling translations of the Bible
+
+
+Optional workshop: revise and extend labs 3-4
+*no class: Easter break*
+
+class
+class
+
+Oral presentations of projects
+class
+
+Oral presentations of projects
+class
+
+Concluding discussion
+Optional workshop: prepare final portfolio of assignments
+
+*Study period*
+*Exams*
