@@ -10,16 +10,16 @@ has_children: true
 
 | Dates | Tuesday | Thursday | Notes |
 | ---: | :--- | :--- | :--- |
-| *Jan 24*, *Jan 26* | [Introduction to course](../classes/intro/) | What is a text? (+ trouble shoot basic tech. setup: julia, github account) | **Tue**: *No lab this week* |
-| *Jan 31*, *Feb 2* | Models and features:  Beethoven (and maybe beetles?) | Defining features of literary style | **Wed**: ***💡 Lab idea**: Lab 0. Nouns and verbs of the Julia language* |
-| *Feb 7*, *Feb 9* | Sequences of features: (nucleotides and verbal ngrams?) | n-grams | **Wed**: ***💡 Lab idea**: Lab 1. Lincoln and Everett at Gettysburg (literary style)* |
+| *Jan 24*, *Jan 26* | [Introduction to course](../classes/intro/) | Why write code? (+ trouble shoot basic tech. setup: julia, github account) | **Tue**: *No lab this week* **Thu**. *No lab for this week* |
+| *Jan 31*, *Feb 2* | Models and features:  Beethoven (and maybe beetles?) | Defining features of literary style | **Wed**: ***💡 Lab idea**: **A**. Nouns and verbs of the Julia language.  **B**.Lincoln and Everett at Gettysburg (literary style) * |
+| *Feb 7*, *Feb 9* | Sequences of features: (nucleotides and verbal ngrams?) | n-grams | **Wed**: ***💡 Lab idea**: **A**. graphing text patterns. **B** An n-gram viewer to compare texts* |
 
 ## Part 2: Classification
 
 | Dates | Tuesday | Thursday | Notes |
 | ---: | :--- | :--- | :--- |
-| *Feb 14*, *Feb 16* | Instances, classes, and scholarly citation: (defining species? when are two versions of a text two different texts?) | Canonical citation of text and textual comparison using edit distance | **Wed**: ***💡 Lab idea**: Lab 2. An n-gram viewer to compare texts* |
-| *Feb 21*, *Feb 23* | Counting features: (Zipf's Law) | Zipf's Law: letters, words, n-grams | **Wed**: ***💡 Lab idea**: revise (and optionally extend) work on labs 1 and 2 for submission* |
+| *Feb 14*, *Feb 16* | Instances, classes, and scholarly citation: (defining species? when are two versions of a text two different texts?) | Canonical citation of text and textual comparison using edit distance | **Wed**: ***💡 Lab idea**:  * |
+| *Feb 21*, *Feb 23* | Counting features: (Zipf's Law) | Zipf's Law: letters, words, n-grams | **Wed**: ***💡 Lab idea**: * |
 | *Feb 28*, *Mar 2* | Comparing features (categorical, ranked, numeric types) and multiclass models.  (topic modeling and...?) | Topic modeling | **Fri**: *Last class before spring break.* **Wed**: ***💡 Lab idea**: Lab 3. topic modeling functions of rooms at Pompeii* |
 | *Mar 7*, *Mar 9* | *no class: spring break* | *no class: spring break* |  |
 

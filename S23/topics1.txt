@@ -2,7 +2,7 @@
 
 
 [Introduction to course](../classes/intro/)
-What is a text? (+ trouble shoot basic tech. setup: julia, github account)
+Why write code? (+ trouble shoot basic tech. setup: julia, github account)#No lab for this week
 
 
 

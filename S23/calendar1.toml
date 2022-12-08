@@ -26,12 +26,12 @@ fixedDates = [
 
   ["2023-05-10",  "Final revisions of all assignments due."],
 
-  ["2023-02-01", "**💡 Lab idea**: Lab 0. Nouns and verbs of the Julia language"],
+  ["2023-02-01", "**💡 Lab idea**: **A**. Nouns and verbs of the Julia language.  **B**.Lincoln and Everett at Gettysburg (literary style) "],
 
-  ["2023-02-08", "**💡 Lab idea**: Lab 1. Lincoln and Everett at Gettysburg (literary style)"],
-  ["2023-02-15", "**💡 Lab idea**: Lab 2. An n-gram viewer to compare texts"],
+  ["2023-02-08", "**💡 Lab idea**: **A**. graphing text patterns. **B** An n-gram viewer to compare texts"],
+  ["2023-02-15", "**💡 Lab idea**:  "],
 
-  ["2023-02-22", "**💡 Lab idea**: revise (and optionally extend) work on labs 1 and 2 for submission"],
+  ["2023-02-22", "**💡 Lab idea**: "],
 
   ["2023-03-01", "**💡 Lab idea**: Lab 3. topic modeling functions of rooms at Pompeii"],
 
